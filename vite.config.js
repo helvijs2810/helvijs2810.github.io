@@ -4,7 +4,7 @@ import tailwindcss from "tailwindcss"
 
 export default defineConfig({
     plugins: [react()],
-    base: "/hpetuhovs.github.io/",
+    base: "",
     build: {
         target: 'esnext'
     },

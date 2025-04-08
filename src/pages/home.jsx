@@ -34,7 +34,7 @@ const Home = () => {
             <br/>
             <p>Currently open for work. If interested, feel free to contact me using any links in footer.</p>
             <br/>
-            <p>P.S.: Website Logo = My middle name &#x1F480;</p>
+            <p>P.S.: Website still WIP as some things like responsive design require fixing.</p>
         </div>
         <img src="sample2.png" alt="flowers-azalea" className="outline outline-[#090604] outline-offset-4 mt-2 ml-4 w-auto h-[500px]"/>
     </div>

@@ -1,6 +1,8 @@
 import { useLayoutEffect, useState } from "react";
 import ProjectCard from "../components/card";
 import { animate, useAnimate } from "framer-motion";
+import { Button } from "@nextui-org/react";
+import { BsArrowRightCircleFill, BsArrowLeftCircleFill } from "react-icons/bs";
 
 //Fetch JSON that records all my project info. Could used some API to pull stuff from Git, but too much hassle for small project
 const response = await fetch("/projects.json");
@@ -68,8 +70,10 @@ const Projects = () => {
             ))}
             </div>
             </div>
-            <button className="bg-slate-600 rounded-[50%] size-4" onClick={moveLeft}></button>
-            <button className="bg-red-400 rounded-[50%] size-4" onClick={moveRight}></button>
+            <div className="w-full h-auto flex justify-center">
+                <BsArrowLeftCircleFill className="fill-slate-600 size-6 mr-4" onClick={moveLeft}/>
+                <BsArrowRightCircleFill className="fill-red-400 size-6" onClick={moveRight}/>
+            </div>
         </div>
     )
 }

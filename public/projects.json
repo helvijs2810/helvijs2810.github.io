@@ -1,74 +1,42 @@
 { "projects": [
     {"section" : [
         {
-            "url" : "https://www.google.com",
-            "image" : "/thumbnails/test.jpg",
-            "title" : "Cool Test!",
-            "content" : "UwU to OwO"
+            "url" : "https://github.com/helvijs2810/PHP-Computer-Store",
+            "image" : "/thumbnails/php-store.png",
+            "title" : "PHP Computer Parts Store",
+            "content" : "Website built on PHP and MySQL for computer parts"
         },
         {
-            "url" : "https://www.nhentai.net",
-            "image" : "sample2.png",
-            "title" : "Cool Test Again!",
-            "content" : "Buh"
+            "url" : "https://github.com/helvijs2810/lua-engine",
+            "image" : "/thumbnails/lua-engine.png",
+            "title" : "Lua Platformer",
+            "content" : "Small Mega Man demo made in Lua"
         },
         {
-            "url" : "https://www.x.com",
-            "image" : "sample2.png",
-            "title" : "Cool Test Last!",
-            "content" : "Wtf is this?"
+            "url" : "https://github.com/helvijs2810/ai-analysis",
+            "image" : "/thumbnails/ai-analysis.png",
+            "title" : "Python SciKit Learn",
+            "content" : "Machine learning via Python and SciKit Learn"
         },
         {
-            "url" : "https://www.google.com",
-            "image" : "/thumbnails/test.jpg",
-            "title" : "Cool Test!",
-            "content" : "Doing this"
+            "url" : "https://github.com/helvijs2810/dos-website",
+            "image" : "/thumbnails/dos-website.png",
+            "title" : "PaperJs DOS Webpage",
+            "content" : "DOS styled website made using PaperJs and NodeJs"
         }
     ]},
     {"section" : [
         {
-            "url" : "https://www.nhentai.net",
-            "image" : "sample2.png",
-            "title" : "Cool Test Again!",
-            "content" : "Until"
+            "url" : "https://github.com/helvijs2810/NextJs-WebPage",
+            "image" : "/thumbnails/next-website.png",
+            "title" : "NextJs + ThreeJs Website",
+            "content" : "Small UI design page using NextJs, NextUI and ThreeJs"
         },
         {
-            "url" : "https://www.x.com",
-            "image" : "sample2.png",
-            "title" : "Cool Test Last!",
-            "content" : "This breaks!"
-        },
-        {
-            "url" : "https://www.nhentai.net",
-            "image" : "sample2.png",
-            "title" : "Cool Test Again!",
-            "content" : "Until"
-        }
-    ]},
-    {"section" : [
-        {
-            "url" : "https://www.google.com",
-            "image" : "sample2.png",
-            "title" : "1",
-            "content" : "UwU to OwO"
-        },
-        {
-            "url" : "https://www.nhentai.net",
-            "image" : "sample2.png",
-            "title" : "2",
-            "content" : "Buh"
-        },
-        {
-            "url" : "https://www.x.com",
-            "image" : "sample2.png",
-            "title" : "3",
-            "content" : "Wtf is this?"
-        },
-        {
-            "url" : "https://www.google.com",
-            "image" : "sample2.png",
-            "title" : "4",
-            "content" : "Doing this"
+            "url" : "https://github.com/helvijs2810/helvijs2810.github.io",
+            "image" : "/thumbnails/home-website.png",
+            "title" : "ReactJs Portfolio Website",
+            "content" : "Link to this project GitHub page."
         }
     ]}
 ]}

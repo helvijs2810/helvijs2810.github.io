@@ -55,7 +55,7 @@ const About = () => {
             </div>
             <FadeIn delaySec={0} className="w-max h-max">
                 <ProfilePhoto/>
-                <p className="text-gray-500">Hover over image &#x1F60F;</p>
+                <p className="text-gray-500">Hover over image &#x1F60E;</p>
             </FadeIn>
         </div>
         </>
